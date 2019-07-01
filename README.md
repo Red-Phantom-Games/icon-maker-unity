@@ -5,5 +5,5 @@ A tool to quickly create multiple placeholder icons in Unity.
 Find these here: icon-maker-unity/documents/IconMaker.pdf
 
 # Unity Package
-Find this here: icon-maker-unity/package/IconMaker.unitypackage.
+Find this here: icon-maker-unity/IconMaker.unitypackage.
 
